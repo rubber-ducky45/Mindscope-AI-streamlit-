@@ -1,16 +1,16 @@
-# NeuroMed Scan AI 🧠
+# MindScope AI 🧠
 
-**Explainable multimodal brain-imaging model for early cognitive-risk pattern detection.**
+** An explainable multimodal brain-imaging model for early cognitive-risk pattern detection!**
 
 ## About This Project
 
-NeuroMed Scan AI is an interactive Streamlit dashboard that uses machine learning to analyze brain imaging data and predict cognitive risk patterns. It combines medication burden, cognitive scores, and neuroimaging biomarkers (hippocampal volume, cortical thickness, PET biomarkers) to identify early signs of cognitive decline.
+MindScope AI is an interactive Streamlit dashboard that uses machine learning to analyze brain imaging data and predict cognitive risk patterns. It uses 3 models that are trained with medication burden, cognitive scores, and neuroimaging biomarkers (hippocampal volume, cortical thickness, PET biomarkers) to identify early signs of cognitive decline!
 
 ### Key Features
 
-- **Story Mode** - Narrative-driven interface with a magical theme
-- **Science Mode** - Traditional scientific dashboard layout
-- **Multiple ML Models** - Compares medication-only, imaging-only, and combined models
+- **Story Mode** This is the mode that focuses more on graphics!
+- **Science Mode** - This mode gives more details.
+- **Three Random Forest Models** - The models are compared with each other to see which one is the most efficient!
 - **Explainable AI** - Understand which features influenced the prediction
 - **Biomarker Visualization** - See how a patient compares to the dataset
 - **Demo Data** - Try it out with synthetic data immediately
